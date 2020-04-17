@@ -1,0 +1,31 @@
+.Customer_Details_Header{
+    background-color: rgb(41, 24, 136);
+}
+.Customer_Details_Header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:whitesmoke;
+    font-weight: bold;
+}
+/*.Customer_Form{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(41, 24, 136);
+    font-weight: bold;
+} */   
+label {
+    font-size: 18px;
+    color: #333;
+    height: 20px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: right;
+    margin-right:15px;
+    float: left;
+}
+input {
+    height: 20px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
